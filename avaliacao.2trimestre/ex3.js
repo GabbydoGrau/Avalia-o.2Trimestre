@@ -1,4 +1,4 @@
-//idade em anos, meses e dias, mas só printada em dias 
+//idade em anos, meses e dias, mas só printada em dias //apenas em dias
 
 var dia = ("Digite os dias: ");
 var mes = ("Digite os meses: ");

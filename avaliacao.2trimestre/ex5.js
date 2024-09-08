@@ -3,9 +3,9 @@
 let nota1 = 4,0;
 let nota2 = 5,0;
 let nota3 = 2,5;
-const soma = (nota1 + nota2 + nota3) \5; //ou por 3, pesquisa depois isso ai 
+const soma = (nota1 + nota2 + nota3) \ 5; // por 5 porque é a nota final, se não, por 3 porque é o total de notas
 
 console.log("a nota final é: " + soma); 
-if soma = < 5,0 
-print ("Aprovado!");
-else print ("Reprovado") //pesquisar o print sem console.
+if soma = > 5,0 
+console.log("Aprovado!");
+else console.log("Reprovado") //pesquisar o print sem console.

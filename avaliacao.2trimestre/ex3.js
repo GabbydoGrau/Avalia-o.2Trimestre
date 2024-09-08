@@ -1,8 +1,10 @@
-//idade em anos, meses e dias, mas só printada em dias //apenas em dias
+//converter idade para dias...
 
-var dia = ("Digite os dias: ");
-var mes = ("Digite os meses: ");
-var ano = ("Digite os anos: ");
+  const anos = 75
+  const meses = 6.5
+  const dias = 20.547
+  const diasAno = 365
+  const diasMes = 30
+  let total = (anos * diasAno) + (meses * diasMes) + dias
 
-var soma = dia + mes + ano;
-console.log("Idade em dias: " + soma);
+    console.log("Idade em dias é:", + total)

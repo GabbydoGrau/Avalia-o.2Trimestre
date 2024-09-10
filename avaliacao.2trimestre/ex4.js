@@ -1,7 +1,7 @@
 //idade em dias, mostra em anos, meses e dias 
 const ano = 43
-const mese = 12
-const dia = 365
+const mese = 516
+const dia = 18516
 const mesporano = 12
 const diapormes = 30
 let anos = ano * mesporano

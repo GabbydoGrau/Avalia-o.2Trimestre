@@ -7,4 +7,4 @@ let y2= 10;
 const conta = (x2-x1)**2 + (y2-y1)**2 ;
 const distancia = conta /2;
 
-console.log("d = " + conta); //pesquisar sobre math.sqrt e entender 
+console.log("d = " + distancia); //pesquisar sobre math.sqrt e entender 

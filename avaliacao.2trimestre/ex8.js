@@ -1,4 +1,4 @@
-function coeficientes(A, B, C, D, E, F) 
+function coeficientes(A, B, C, D, E, F) //exemplos, 3, 4, 8, 5, 9 e 1
   
     const denominador = (A * E) - (B * D)
     const x = (c * e - b * f) / denominador

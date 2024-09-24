@@ -8,4 +8,4 @@ const soma = (nota1 + nota2 + nota3) \ 5; // por 5 porque é a nota final, se n�
 console.log("a nota final é: " + soma); 
 if soma = > 5.0 
 console.log("Aprovado!");
-else console.log("Reprovado") //pesquisar o print sem console.
+else console.log("Reprovado") //pesquisar o print sem console. //printar sem console é o write(), segundo o google

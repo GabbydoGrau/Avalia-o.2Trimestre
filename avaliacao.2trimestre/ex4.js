@@ -7,6 +7,6 @@ const diapormes = 30
 let anos = ano * mesporano
 let meses = dia / diapormes
 let dias = mese * diapormes
-console.log("Idade em dias é:", + dias)
+console.log("Idade em dias é:" + dias)
 console.log("Idade em meses é: " + meses)
 console.log("Idade em anos é: " anos)

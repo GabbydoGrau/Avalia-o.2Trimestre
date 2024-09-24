@@ -2,7 +2,7 @@
 function lerNumero (A , B, C) { // a=3, b=2, c=4
   if (A <= 0 || B <= 0 || C <= 0) {
   }
-    let r = (3 + 2, 2);   //lembrar de math.pow
+    let r = (3 + 2, 2);   //lembrar de math.pow // segundo o google, math.pow retorna um número especificado elevado à potência especificada
     let s = (B + C, 2);   //precisa de math.pow?
 
  
